@@ -19,7 +19,7 @@
 1. [GitHub Skills: Introduction to GitHub](https://github.com/skills/introduction-to-github)
 2. [first-contributions](https://github.com/firstcontributions/first-contributions)
 3. [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
-4. [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+4. [developer-roadmap](https://github.com/nilbuild/developer-roadmap)
 
 ### 2. 计算机基础
 
@@ -47,7 +47,7 @@
 1. [Web Dev For Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
 2. [ML For Beginners](https://github.com/microsoft/ML-For-Beginners)
 3. [Generative AI For Beginners](https://github.com/microsoft/generative-ai-for-beginners)
-4. [awesome-llm](https://github.com/datawhalechina/awesome-llm)
+4. [AI Agents For Beginners](https://github.com/microsoft/ai-agents-for-beginners)
 
 ## 分类目录
 

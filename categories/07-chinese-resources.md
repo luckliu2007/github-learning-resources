@@ -7,13 +7,14 @@
 | [CS-Notes](https://github.com/CyC2018/CS-Notes) | 中文 CS 学习者 | 网络、操作系统、数据库、Java、算法 |
 | [JavaGuide](https://github.com/Snailclimb/JavaGuide) | Java 和后端方向 | Java 基础、集合、JVM、并发、数据库、面试 |
 | [labuladong 的算法笔记](https://github.com/labuladong/fucking-algorithm) | 算法学习者 | 算法模板和解题思路 |
-| [awesome-llm](https://github.com/datawhalechina/awesome-llm) | 大模型学习者 | LLM 课程、论文、工具、实践项目 |
+| [self-llm](https://github.com/datawhalechina/self-llm) | 想上手开源大模型的人 | 开源大模型的部署、微调保姆级教程 |
+| [happy-llm](https://github.com/datawhalechina/happy-llm) | 大模型学习者 | 从零开始的大模型原理与实践教程 |
 
 ## 建议学习顺序
 
 1. 如果走 Java 后端，JavaGuide 和 CS-Notes 可以搭配使用。
 2. 算法部分用 labuladong 建立题型框架。
-3. AI 方向从 awesome-llm 挑一条课程线，不要一次打开太多资源。
+3. AI 方向从 self-llm 或 happy-llm 挑一条课程线，不要一次打开太多资源。
 
 ## 产出目标
 
