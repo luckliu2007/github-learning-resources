@@ -1,0 +1,8 @@
+# 需要登录/对爬虫返回非 200、但对人类可访问的站点，或已知会限流的域名。
+# 每行一个正则。lychee 会跳过匹配到的 URL。
+
+# 交互式课程站点常对 headless 请求返回非 200
+https://www.coursera.org/.*
+https://www.classcentral.com/.*
+# 部分金融/资讯站对爬虫做拦截
+https://seekingalpha.com/.*

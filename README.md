@@ -1,8 +1,25 @@
 # GitHub Learning Resources
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](./LICENSE)
+[![Link Check](https://github.com/luckliu2007/github-learning-resources/actions/workflows/link-check.yml/badge.svg)](https://github.com/luckliu2007/github-learning-resources/actions/workflows/link-check.yml)
+[![Last Commit](https://img.shields.io/github/last-commit/luckliu2007/github-learning-resources.svg)](https://github.com/luckliu2007/github-learning-resources/commits)
+
 一份按学习目标分类的高质量 GitHub 学习资源导航。
 
 本仓库只整理公开项目链接、学习顺序和使用建议，不复制原项目内容。适合放在个人 GitHub 主页、收藏夹仓库，或继续拆分成多个专题仓库。
+
+> **English**: A curated, opinionated navigator of high-quality learning resources on GitHub, organized by learning goal rather than by tech stack. Each category ships with a suggested learning order and concrete deliverables. Curation over collection — we keep the few resources worth returning to, not everything that exists.
+
+## 目录
+
+- [入选标准](#入选标准)
+- [快速学习路线](#快速学习路线)
+- [分类目录](#分类目录)
+- [如果你想分类建多个库](#如果你想分类建多个库)
+- [维护建议](#维护建议)
+- [贡献](#贡献)
+- [许可](#许可)
 
 ## 入选标准
 
@@ -66,7 +83,16 @@
 
 ## 维护建议
 
-- 每月检查一次失效链接。
+- 失效链接由 [`link-check` workflow](.github/workflows/link-check.yml) 每周自动体检，无需再手动逐条检查。
 - 新增资源时先写“为什么值得学”，再放链接。
 - 不要把同类资源堆太多，宁可保留 5 个真正会用的。
 - 不复制课程正文、书籍内容或原项目 README，大段内容请回到原链接阅读。
+- 一个资源只在它的“主分类”写完整条目，其它分类需要提及时用“另见”引用，避免重复维护。
+
+## 贡献
+
+欢迎推荐资源或修正链接。请先读 [CONTRIBUTING.md](CONTRIBUTING.md)，通过 [Issue 模板](.github/ISSUE_TEMPLATE/resource-suggestion.md) 提交推荐，或直接发 PR。每个新增资源都要写清“为什么值得学”。
+
+## 许可
+
+本仓库内容（资源整理、说明文字）采用 [CC0-1.0](./LICENSE) 释出到公有领域，你可以自由复制、修改、再分发，无需署名。外部链接指向的第三方项目各自遵循其原始许可。

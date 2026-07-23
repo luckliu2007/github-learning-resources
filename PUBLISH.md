@@ -1,10 +1,6 @@
 # 发布到 GitHub
 
-当前文件夹已经可以作为一个 GitHub 仓库发布：
-
-```text
-C:\Users\liuq\Documents\Codex\2026-05-26\github-github\github-learning-resources
-```
+当前文件夹已经可以作为一个 GitHub 仓库发布。任选下面一种方式。
 
 ## 方法一：GitHub 网页上传
 
