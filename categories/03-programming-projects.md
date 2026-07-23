@@ -7,8 +7,10 @@
 | [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 新手到中级 | Web、Python、数据分析、认证项目 |
 | [project-based-learning](https://github.com/practical-tutorials/project-based-learning) | 想边做边学的人 | 用项目学习语言、框架和工具 |
 | [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 中级到高级 | 从零实现数据库、Git、Docker、解释器等 |
-| [The Algorithms - Python](https://github.com/TheAlgorithms/Python) | Python 学习者 | 用 Python 理解常见算法实现 |
-| [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | JavaScript 学习者 | JavaScript 版算法和数据结构 |
+| [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | 所有开发者 | 命令行速成，一页读完的高密度实用技巧 |
+| [30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) | 想积累代码片段的人 | 短小可复用的编程片段，边查边学 |
+
+> 算法实现类资源（The Algorithms、javascript-algorithms）另见 [算法、数据结构和面试](04-algorithms-interviews.md)。
 
 ## 建议学习顺序
 
