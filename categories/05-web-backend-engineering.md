@@ -4,7 +4,7 @@
 
 | 资源 | 适合人群 | 学习重点 |
 | --- | --- | --- |
-| [developer-roadmap](https://github.com/nilbuild/developer-roadmap) | 不知道学什么顺序的人 | 前端、后端、DevOps、AI 等路线图 |
+| [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | 不知道学什么顺序的人 | 前端、后端、DevOps、AI 等路线图 |
 | [Web Dev For Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | Web 新手 | HTML、CSS、JavaScript 基础项目 |
 | [awesome-react](https://github.com/enaqx/awesome-react) | React 学习者 | React 生态资源和工具 |
 | [public-apis](https://github.com/public-apis/public-apis) | 做练手项目的人 | 免费公开 API，用于项目实践 |
