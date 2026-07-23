@@ -10,7 +10,7 @@
 | [public-apis](https://github.com/public-apis/public-apis) | 做练手项目的人 | 免费公开 API，用于项目实践 |
 | [system-design-primer](https://github.com/donnemartin/system-design-primer) | 后端和架构方向 | 系统设计核心主题 |
 | [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) | 想深入高可用/高并发的人 | 真实系统的可扩展性、可靠性案例与论文 |
-| [The Twelve-Factor App](https://12factor.net/zh_cn) | 写后端服务的人 | 云原生应用的 12 条工程准则（中文） |
+| [The Twelve-Factor App](https://12factor.net/) | 写后端服务的人 | 云原生应用的 12 条工程准则 |
 | [postgres 官方教程 / PostgreSQL Exercises](https://pgexercises.com/) | 补数据库的人 | 用真实数据练 SQL 查询和索引 |
 | [awesome-docker](https://github.com/veggiemonk/awesome-docker) | 做部署/DevOps 的人 | 容器化、编排、CI/CD 工具索引 |
 | [kubernetes/kubernetes（配 kubernetes.io 教程）](https://kubernetes.io/zh-cn/docs/tutorials/) | 想学编排的人 | K8s 官方交互式教程 |
