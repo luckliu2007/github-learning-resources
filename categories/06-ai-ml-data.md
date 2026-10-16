@@ -1,6 +1,14 @@
 # AI、机器学习和数据科学
 
-从机器学习基础到大模型应用、智能体（Agent）和 MCP 工具生态的完整学习路线（2026-09 更新：新增推理模型、MCP、Agent Skills 相关资源，入选项目均已核实仍在活跃维护）。按阶段学，每个阶段选一两个资源学透，不要一次打开太多。
+从机器学习基础到大模型应用、智能体（Agent）和 MCP 工具生态的完整学习路线（2026-10 更新：新增一站式 AI 工程课程；2026-09 新增推理模型、MCP、Agent Skills 相关资源。入选项目均已核实仍在活跃维护）。按阶段学，每个阶段选一两个资源学透，不要一次打开太多。
+
+## 一站式路线：AI Engineering from Scratch
+
+如果你想要一条从数学基础一路走到智能体上线的完整主线，而不是在下面多个资源之间拼凑，可以直接选它，再用各阶段的资源做专题加深。
+
+| 资源 | 适合人群 | 学习重点 |
+| --- | --- | --- |
+| [AI Engineering from Scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 会写代码、想系统转 AI 工程的人 | 2026 年 3 月开源、增长最快的 AI 工程课程之一（约 7 万星，MIT 许可）：20 个阶段 500+ 节课，覆盖数学与 ML 基础、深度学习、Transformer、从零实现 LLM、RAG、MCP 与 Agent Skills、多智能体和生产部署，每节课都有代码和运行命令 |
 
 ## 第一阶段：机器学习和数据科学基础
 
@@ -35,7 +43,7 @@
 
 | 资源 | 适合人群 | 学习重点 |
 | --- | --- | --- |
-| [AI Agents For Beginners](https://github.com/microsoft/ai-agents-for-beginners) | 想入门智能体的人 | 智能体设计模式、常用框架、多智能体协作 |
+| [AI Agents For Beginners](https://github.com/microsoft/ai-agents-for-beginners) | 想入门智能体的人 | 微软 18 课入门课程：智能体设计模式、工具调用、RAG、规划、多智能体协作 |
 | [Hugging Face Agents Course](https://github.com/huggingface/agents-course) | 想动手做 Agent 的人 | 免费认证课程，用主流框架构建并评估智能体 |
 | [agents-towards-production](https://github.com/NirDiamant/agents-towards-production) | 想把 Agent 做成真实产品的人 | 记忆、工具、安全防护、可观测性、部署等生产级环节的代码教程 |
 
