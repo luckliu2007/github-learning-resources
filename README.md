@@ -73,7 +73,7 @@
 - [编程语言和项目实践](categories/03-programming-projects.md)
 - [算法、数据结构和面试](categories/04-algorithms-interviews.md)
 - [Web、后端和工程能力](categories/05-web-backend-engineering.md)
-- [AI、机器学习和数据科学](categories/06-ai-ml-data.md)
+- [AI、机器学习和数据科学](categories/06-ai-ml-data.md)（应用构建者 / 管理者路线见独立仓库 [ai-ml-data-roadmap](https://github.com/luckliu2007/ai-ml-data-roadmap)）
 - [中文优质资源](categories/07-chinese-resources.md)
 - [工具、资料库和长期收藏](categories/08-reference-libraries.md)
 

@@ -10,7 +10,7 @@
 | `coding-projects-lab` | 项目式学习和练手项目 | 编程语言和项目实践 |
 | `algorithm-interview-notes` | 算法、数据结构、面试笔记 | 算法、数据结构和面试 |
 | `web-backend-engineering` | 前端、后端、工程能力 | Web、后端和工程能力 |
-| `ai-ml-data-roadmap` | AI、机器学习、数据科学 | AI、机器学习和数据科学 |
+| [`ai-ml-data-roadmap`](https://github.com/luckliu2007/ai-ml-data-roadmap) ✅ 已建（2026-10） | AI 应用构建者与管理者两条学习路线 | AI、机器学习和数据科学 |
 | `chinese-dev-learning` | 中文优质开发资源 | 中文优质资源 |
 
 ## 推荐做法
