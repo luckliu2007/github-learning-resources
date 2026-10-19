@@ -39,7 +39,7 @@
 | [llm-course](https://github.com/mlabonne/llm-course) | 想走 LLM 工程方向的人 | LLM 科学家和工程师两条路线图，附大量 notebook |
 | [RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) | 做知识库问答的人 | 数十种进阶 RAG 技术的可运行 notebook，从分块策略到重排序和评估 |
 | [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) | 所有大模型使用者 | 系统的提示工程方法、技巧和论文索引 |
-| [Anthropic Courses](https://github.com/anthropics/courses) | 用 API 做开发的人 | 官方课程：提示工程、工具调用、模型评估 |
+| [Anthropic Courses](https://github.com/anthropics/courses)（已归档，2026-10） | 用 API 做开发的人 | 官方课程：提示工程、工具调用、模型评估；仓库已停止维护但内容仍可读，新课程见官方 [Anthropic Academy](https://anthropic.skilljar.com/) |
 
 ## 第四阶段：智能体（AI Agent）
 
@@ -48,6 +48,7 @@
 | [AI Agents For Beginners](https://github.com/microsoft/ai-agents-for-beginners) | 想入门智能体的人 | 微软 18 课入门课程：智能体设计模式、工具调用、RAG、规划、多智能体协作 |
 | [Hugging Face Agents Course](https://github.com/huggingface/agents-course) | 想动手做 Agent 的人 | 免费认证课程，用主流框架构建并评估智能体 |
 | [agents-towards-production](https://github.com/NirDiamant/agents-towards-production) | 想把 Agent 做成真实产品的人 | 记忆、工具、安全防护、可观测性、部署等生产级环节的代码教程 |
+| [learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) | 用 AI 编程智能体干活的工程师 | 项目制课程：为编程智能体搭建指令、工具、环境、状态和验证反馈（harness），附 Claude Code、Codex 等真实 harness 拆解，含简体中文 |
 
 ## 第五阶段：MCP 与 Agent Skills（2025–2026 新标准）
 
@@ -66,6 +67,7 @@
 | [happy-llm](https://github.com/datawhalechina/happy-llm) | 想懂原理的中文学习者 | 从零开始的大模型原理与实践教程 |
 | [llm-universe](https://github.com/datawhalechina/llm-universe) | 中文应用开发新手 | 面向新手的大模型应用开发入门 |
 | [hello-agents](https://github.com/datawhalechina/hello-agents) | 想系统学智能体的中文学习者 | 《从零开始构建智能体》，从原理到多智能体实践 |
+| [easy-vibe](https://github.com/datawhalechina/easy-vibe) | 想用 AI 编程做出产品的人 | Vibe Coding 实战教程：从需求分析、原型到上线，分新手 / 初中级 / 进阶开发者三条路线，带交互式演示 |
 
 ## 建议学习顺序
 
