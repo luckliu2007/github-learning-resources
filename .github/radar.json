@@ -1,0 +1,10 @@
+{
+  "theme": "GitHub 学习资源：计算机基础、项目实践、算法面试、Web 工程、AI/LLM/智能体",
+  "self_owner": "luckliu2007",
+  "queries": ["topic:learning-resources", "topic:roadmap", "topic:computer-science course", "topic:llm course", "topic:ai-agents tutorial", "topic:interview-preparation"],
+  "min_stars": 2000,
+  "pushed_within_days": 30,
+  "max_age_days": 730,
+  "stale_days": 720,
+  "top_n": 8
+}
