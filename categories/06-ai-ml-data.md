@@ -30,6 +30,7 @@
 | [fastbook](https://github.com/fastai/fastbook) | 想快速上手深度学习的人 | fast.ai 实战式深度学习教材，先跑通再深究 |
 | [nanochat](https://github.com/karpathy/nanochat) | 学完 nn-zero-to-hero 想看完整流程的人 | Karpathy 出品，约 100 美元算力从分词、预训练、微调到聊天界面完整训练一个小型 ChatGPT |
 | [reasoning-from-scratch](https://github.com/rasbt/reasoning-from-scratch) | 想搞懂推理模型的人 | LLMs-from-scratch 续作，从零实现推理（reasoning）能力：推理时扩展、强化学习训练 |
+| [tiny-llm](https://github.com/skyzh/tiny-llm) | 想搞懂大模型推理服务的系统工程师 | mini-lsm 作者 skyzh 出品，在 Apple Silicon 上用 MLX 从矩阵运算手写 Qwen3 推理，再加 KV Cache、量化、批处理，搭一个迷你 vLLM（需 Mac） |
 
 ## 第三阶段：大模型应用开发
 
@@ -68,6 +69,7 @@
 | [llm-universe](https://github.com/datawhalechina/llm-universe) | 中文应用开发新手 | 面向新手的大模型应用开发入门 |
 | [hello-agents](https://github.com/datawhalechina/hello-agents) | 想系统学智能体的中文学习者 | 《从零开始构建智能体》，从原理到多智能体实践 |
 | [easy-vibe](https://github.com/datawhalechina/easy-vibe) | 想用 AI 编程做出产品的人 | Vibe Coding 实战教程：从需求分析、原型到上线，分新手 / 初中级 / 进阶开发者三条路线，带交互式演示 |
+| [deepagents-in-action](https://github.com/datawhalechina/deepagents-in-action) | 用 LangChain 生态做智能体的人 | 《Deep Agents 实战》：基于 LangChain / LangGraph Deep Agents，16 章图文 + 视频 + 实验模板，讲任务规划、文件系统、子 Agent 与上下文管理 |
 
 ## 建议学习顺序
 
