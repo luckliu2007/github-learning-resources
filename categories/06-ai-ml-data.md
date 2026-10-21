@@ -50,6 +50,7 @@
 | [Hugging Face Agents Course](https://github.com/huggingface/agents-course) | 想动手做 Agent 的人 | 免费认证课程，用主流框架构建并评估智能体 |
 | [agents-towards-production](https://github.com/NirDiamant/agents-towards-production) | 想把 Agent 做成真实产品的人 | 记忆、工具、安全防护、可观测性、部署等生产级环节的代码教程 |
 | [learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) | 用 AI 编程智能体干活的工程师 | 项目制课程：为编程智能体搭建指令、工具、环境、状态和验证反馈（harness），附 Claude Code、Codex 等真实 harness 拆解，含简体中文 |
+| [Claude Code: Everything You Need to Know](https://github.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know) | 刚开始用 Claude Code 的工程师 | 社区编写的分级实操教程（初级 / 中级 / 高级）：每课在自己的练习仓库里动手并有自动检查，易变的事实标注出处和验证过的版本；需付费 Claude 订阅或 API 账号 |
 
 ## 第五阶段：MCP 与 Agent Skills（2025–2026 新标准）
 

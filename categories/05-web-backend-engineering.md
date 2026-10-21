@@ -10,6 +10,7 @@
 | [public-apis](https://github.com/public-apis/public-apis) | 做练手项目的人 | 免费公开 API，用于项目实践 |
 | [system-design-primer](https://github.com/donnemartin/system-design-primer) | 后端和架构方向 | 系统设计核心主题 |
 | [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) | 想深入高可用/高并发的人 | 真实系统的可扩展性、可靠性案例与论文 |
+| [awesome-architecture](https://github.com/study8677/awesome-architecture) | 想从“会写代码”走向“会做架构”的人 | 中英双语架构图谱：26 篇架构教程、25 个热门系统架构模板、6 个端到端案例，覆盖分布式系统、RAG 和编程智能体等 AI 原生系统（[在线阅读](https://study8677.github.io/awesome-architecture/)） |
 | [The Twelve-Factor App](https://12factor.net/) | 写后端服务的人 | 云原生应用的 12 条工程准则 |
 | [postgres 官方教程 / PostgreSQL Exercises](https://pgexercises.com/) | 补数据库的人 | 用真实数据练 SQL 查询和索引 |
 | [awesome-docker](https://github.com/veggiemonk/awesome-docker) | 做部署/DevOps 的人 | 容器化、编排、CI/CD 工具索引 |
