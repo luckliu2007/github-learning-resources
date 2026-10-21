@@ -7,6 +7,7 @@
 | [coding-interview-university](https://github.com/jwasham/coding-interview-university) | 准备技术面试的人 | 数据结构、算法、系统基础、面试计划 |
 | [system-design-primer](https://github.com/donnemartin/system-design-primer) | 后端、全栈、架构方向 | 可扩展系统设计、缓存、数据库、队列 |
 | [ai-engineering-interview-questions](https://github.com/amitshekhariitbhu/ai-engineering-interview-questions) | 准备 AI / LLM 工程师面试的人 | 英文问答速查：LLM 基础、RAG、Agent、微调、LLMOps、AI 系统设计 |
+| [TorchLeet](https://github.com/Exorust/TorchLeet) | 准备 ML / AI 工程师面试的人 | “PyTorch 版 LeetCode”：68 道来自真实面试的 PyTorch 手写题（Jupyter notebook，题目 + 参考解），分基础、从零实现 LLM、进阶三条线；作者建议先自己做，不要直接问 AI |
 | [labuladong 的算法笔记](https://labuladong.online/algo/) | 中文算法学习者 | 算法套路、动态规划、二叉树、回溯（在线站点） |
 | [hello-algo](https://github.com/krahets/hello-algo) | 想看动画学数据结构的人 | 动画图解数据结构与算法，多语言代码 |
 | [The Algorithms - Python](https://github.com/TheAlgorithms/Python) | Python 用户 | 算法实现参考 |
