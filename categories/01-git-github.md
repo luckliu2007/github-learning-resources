@@ -11,11 +11,12 @@
 | [GitHub CLI (`gh`)](https://github.com/cli/cli) | 命令行党 | 在终端里管理 issue、PR、release |
 | [gitignore](https://github.com/github/gitignore) | 所有开发者 | 为不同语言和框架选择合理的 `.gitignore` |
 | [Oh My Git!（游戏化学习）](https://github.com/git-learning-game/oh-my-git) | 觉得 Git 抽象的人 | 用可视化小游戏理解分支和提交图 |
+| [Learn Git Branching](https://learngitbranching.js.org/?locale=zh_CN) | 想真正搞懂分支、rebase 的人 | 浏览器里的交互式 Git 关卡，实时画出提交树，有中文界面（[GitHub](https://github.com/pcottle/learnGitBranching)） |
 
 ## 建议学习顺序
 
 1. 先完成 GitHub Skills 的入门练习。
-2. 用 first-contributions 做一次真实 PR。
+2. 用 Learn Git Branching 练熟分支、合并和 rebase，再用 first-contributions 做一次真实 PR。
 3. 给自己的学习仓库加 README、目录和 `.gitignore`。
 4. 学会 star、watch、fork、issue、pull request 的区别。
 

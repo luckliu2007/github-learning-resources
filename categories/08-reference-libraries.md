@@ -13,6 +13,8 @@
 | [papers-we-love](https://github.com/papers-we-love/papers-we-love) | 进阶开发者 | 经典论文目录 |
 | [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) | 所有开发者 | 各语言/框架/工具的速查表合集 |
 | [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | 爱折腾/想自建服务的人 | 可自托管的开源软件索引 |
+| [DevDocs](https://devdocs.io/) | 所有开发者 | 把上百种语言和框架的官方文档合在一个可离线、可搜索的界面里（[GitHub](https://github.com/freeCodeCamp/devdocs)） |
+| [tldr-pages](https://tldr.sh/) | 用命令行的人 | 常用命令的“实用版说明书”，只给最常见的用法示例，有中文版（[GitHub](https://github.com/tldr-pages/tldr)） |
 
 ## 使用建议
 

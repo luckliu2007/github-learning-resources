@@ -76,10 +76,15 @@
 - [AI、机器学习和数据科学](categories/06-ai-ml-data.md)（应用构建者 / 管理者路线见独立仓库 [ai-ml-data-roadmap](https://github.com/luckliu2007/ai-ml-data-roadmap)）
 - [中文优质资源](categories/07-chinese-resources.md)
 - [工具、资料库和长期收藏](categories/08-reference-libraries.md)
+- [网络安全](categories/09-security.md)
 
 ## 如果你想分类建多个库
 
 见 [REPO_SPLIT_PLAN.md](REPO_SPLIT_PLAN.md)。里面给了推荐仓库名、简介和适合放的分类，之后可以按这个计划拆成多个 GitHub 仓库。
+
+## 路线图
+
+下一步的补强方向和维护机制见 [ROADMAP.md](ROADMAP.md)。
 
 ## 维护建议
 
