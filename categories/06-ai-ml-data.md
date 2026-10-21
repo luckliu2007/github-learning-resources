@@ -70,6 +70,7 @@
 | [hello-agents](https://github.com/datawhalechina/hello-agents) | 想系统学智能体的中文学习者 | 《从零开始构建智能体》，从原理到多智能体实践 |
 | [easy-vibe](https://github.com/datawhalechina/easy-vibe) | 想用 AI 编程做出产品的人 | Vibe Coding 实战教程：从需求分析、原型到上线，分新手 / 初中级 / 进阶开发者三条路线，带交互式演示 |
 | [deepagents-in-action](https://github.com/datawhalechina/deepagents-in-action) | 用 LangChain 生态做智能体的人 | 《Deep Agents 实战》：基于 LangChain / LangGraph Deep Agents，16 章图文 + 视频 + 实验模板，讲任务规划、文件系统、子 Agent 与上下文管理 |
+| [awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh) | 想系统学智能体、偏好中文路线图的人 | 繁中 / 简中 / 英三语的 AI Agent 学习地图：Stage 0–8 从 LLM 基础到多智能体与生产化，分 CLI 智能体使用者和 Agent 开发者两条路线，附名词表、小练习和精选资源（[在线阅读](https://wenyuchiou.github.io/awesome-agentic-ai-zh/)） |
 
 ## 建议学习顺序
 
