@@ -11,6 +11,8 @@
 | [go-interview-practice](https://github.com/RezaSi/go-interview-practice) | 准备 Go 后端面试的人 | 30 道带自动化测试的 Go 编程题，另有 Gin、GORM、Cobra 等常用库的专项练习；可本地跑测试，也可用在线平台 [app.gointerview.dev](https://app.gointerview.dev/) 提交 |
 | [labuladong 的算法笔记](https://labuladong.online/algo/) | 中文算法学习者 | 算法套路、动态规划、二叉树、回溯（在线站点） |
 | [hello-algo](https://github.com/krahets/hello-algo) | 想看动画学数据结构的人 | 动画图解数据结构与算法，多语言代码 |
+| [NeetCode Roadmap](https://neetcode.io/roadmap) | 准备刷题面试的人 | 按题型组织的刷题路线图（NeetCode 150），每题配讲解视频，核心内容免费 |
+| [doocs/leetcode](https://github.com/doocs/leetcode) | 中文刷题者 | LeetCode、剑指 Offer 等题目的多语言中文题解，持续更新 |
 | [The Algorithms - Python](https://github.com/TheAlgorithms/Python) | Python 用户 | 算法实现参考 |
 | [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | JavaScript 用户 | 算法实现参考 |
 
@@ -18,7 +20,7 @@
 
 1. 先学数组、链表、栈、队列、哈希表、树、图。
 2. 再学排序、搜索、递归、动态规划、贪心、回溯。
-3. 用 labuladong 或 coding-interview-university 做专题复习。
+3. 按 NeetCode Roadmap 的题型顺序刷题，用 labuladong 或 coding-interview-university 做专题复习。
 4. 系统设计单独成线，不要和刷题混在一起。
 
 ## 产出目标

@@ -9,6 +9,7 @@
 | [CS-Notes](https://github.com/CyC2018/CS-Notes) | 计算机基础 | [计算机科学基础](02-computer-science.md) |
 | [labuladong 的算法笔记](https://labuladong.online/algo/) | 算法套路 | [算法与面试](04-algorithms-interviews.md) |
 | [hello-algo](https://github.com/krahets/hello-algo) | 动画图解算法 | [算法与面试](04-algorithms-interviews.md) |
+| [CS 自学指南](https://csdiy.wiki/) | 名校 CS 课程地图 | [计算机科学基础](02-computer-science.md) |
 | [Datawhale：self-llm / happy-llm / llm-universe](https://github.com/datawhalechina) | 大模型原理与应用 | [AI、机器学习和数据科学](06-ai-ml-data.md) |
 
 ## 中文独有资源
@@ -17,9 +18,11 @@
 | --- | --- | --- |
 | [JavaGuide](https://github.com/Snailclimb/JavaGuide) | Java 和后端方向 | Java 基础、集合、JVM、并发、数据库、面试 |
 | [advanced-java](https://github.com/doocs/advanced-java) | Java 进阶/面试 | 高并发、分布式、微服务、海量数据处理 |
-| [technology-talk / 后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome) | 想成为架构师的人 | 后端技术全景图谱，查漏补缺用 |
-| [编程随想 / 中文技术博客与书单](https://github.com/justjavac/free-programming-books-zh_CN) | 中文自学者 | 免费中文编程书籍大全 |
-| [微信公众号/知乎之外的中文文档](https://github.com/jaywcjlove/awesome-mac) | 想找中文工具索引的人 | 中文维护的 macOS 应用与工具清单 |
+| [后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome) | 想成为架构师的人 | 后端技术全景图谱，查漏补缺用（2024 年后未更新，新技术请对照其他资源） |
+| [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN) | 中文自学者 | 免费中文编程书籍大全 |
+| [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | 想发现好玩开源项目的人 | 每月一期，用中文介绍入门级、有趣的开源项目，适合找练手项目（[网站](https://hellogithub.com/)） |
+| [科技爱好者周刊](https://github.com/ruanyf/weekly) | 想保持技术视野的人 | 阮一峰每周五发布，汇总值得关注的技术文章、工具和资源 |
+| [中国独立开发者项目列表](https://github.com/1c7/chinese-independent-developer) | 想做个人产品的人 | 中国独立开发者的项目汇总，看别人怎么从一个想法做成产品 |
 
 ## 建议学习顺序
 
