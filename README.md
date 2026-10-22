@@ -77,6 +77,7 @@
 - [中文优质资源](categories/07-chinese-resources.md)
 - [工具、资料库和长期收藏](categories/08-reference-libraries.md)
 - [网络安全](categories/09-security.md)
+- [数据工程、云计算与 DevOps](categories/10-data-cloud-devops.md)
 
 ## 如果你想分类建多个库
 
