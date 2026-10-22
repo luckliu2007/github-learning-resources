@@ -3,3 +3,4 @@ MadsLorentzen/ai-job-search
 tradecatlabs/vibe-coding-cn
 AhmadHassan-BTed/Jantt
 heilcheng/awesome-agent-skills
+ai-job-search-dev/ai-job-search
