@@ -78,6 +78,8 @@
 - [工具、资料库和长期收藏](categories/08-reference-libraries.md)
 - [网络安全](categories/09-security.md)
 - [数据工程、云计算与 DevOps](categories/10-data-cloud-devops.md)
+- [移动开发](categories/11-mobile.md)
+- [游戏开发与图形学](categories/12-game-graphics.md)
 
 ## 如果你想分类建多个库
 
