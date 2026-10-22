@@ -19,6 +19,8 @@
 | [awesome-docker](https://github.com/veggiemonk/awesome-docker) | 做部署/DevOps 的人 | 容器化、编排、CI/CD 工具索引 |
 | [kubernetes/kubernetes（配 kubernetes.io 教程）](https://kubernetes.io/zh-cn/docs/tutorials/) | 想学编排的人 | K8s 官方交互式教程 |
 
+> 云平台、DevOps 和数据工程的系统资源见 [数据工程、云计算与 DevOps](10-data-cloud-devops.md)。
+
 ## 建议学习顺序
 
 1. 用 developer-roadmap 确定方向（前端 / 后端 / DevOps）。
