@@ -15,8 +15,8 @@
 
 - [x] 数据工程（数据管道、数仓、流处理）的系统课程（`categories/10-data-cloud-devops.md`，2026-10-22）
 - [x] 云计算与 DevOps 实践路线（云厂商免费课程、基础设施即代码）（同上，2026-10-22）
-- [ ] 移动开发（Android / iOS / 跨平台）
-- [ ] 游戏开发与图形学入门
+- [x] 移动开发（Android / iOS / 跨平台）（`categories/11-mobile.md`，2026-10-22）
+- [x] 游戏开发与图形学入门（`categories/12-game-graphics.md`，2026-10-22）
 
 ## 维护机制
 
