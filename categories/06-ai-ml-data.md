@@ -60,6 +60,10 @@
 | --- | --- | --- |
 | [MCP For Beginners](https://github.com/microsoft/mcp-for-beginners) | 想给 AI 接工具和数据的人 | 微软出品，多语言示例（Python/TypeScript/Java/.NET 等），从概念到自己写 MCP 服务器 |
 | [Agent Skills](https://github.com/anthropics/skills) | 想复用和定制智能体能力的人 | 官方 Skills 示例与规范：一个文件夹装指令、脚本和资源，按需加载 |
+| [MCP 2026-07-28 规范](https://modelcontextprotocol.io/specification/2026-07-28/changelog) | 写 MCP 服务器的人 | 协议推出以来最大的修订：无状态核心、发现机制、Tasks 扩展、MCP Apps，旧的 HTTP+SSE 传输已弃用；MCP 现由 Linux 基金会旗下的 [AAIF](https://aaif.io/) 托管 |
+| [AGENTS.md](https://agents.md/) | 用编程智能体的人 | 写给编程智能体看的项目说明文件（开放格式），每个仓库放一份 |
+
+**2026 年的智能体工程实践**（Anthropic Engineering 一手文章）：[工具设计](https://www.anthropic.com/engineering/writing-tools-for-agents) · [长任务运行框架](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents) · [智能体评估](https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents) · [多智能体系统](https://www.anthropic.com/engineering/multi-agent-research-system)。安全方面看 [OWASP 智能体应用十大风险（2026）](https://genai.owasp.org/resource/owasp-top-10-for-agentic-applications-for-2026/)。汇总解读见 [2026 AI 最佳实践](https://github.com/luckliu2007/ai-ml-data-roadmap/blob/main/best-practices-2026.md)。
 
 ## 中文资源
 
