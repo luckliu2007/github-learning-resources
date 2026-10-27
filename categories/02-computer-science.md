@@ -8,6 +8,7 @@
 | --- | --- | --- |
 | [CS50x（哈佛）](https://cs50.harvard.edu/x/) | 零基础或转行的人 | 公认最好的计算机入门课：C、Python、SQL、Web，配在线编程环境和习题，免费 |
 | [CS 自学指南（csdiy.wiki）](https://csdiy.wiki/) | 中文自学者 | 北大学生整理的全球名校 CS 课程地图，按方向列出课程、教材和作业（[GitHub](https://github.com/PKUFlyingPig/cs-self-learning)） |
+| [Nand2Tetris（从与非门到俄罗斯方块）](https://www.nand2tetris.org/) | 想搞懂计算机从硬件到软件怎么搭起来的人 | 经典项目课：从与非门开始，一步步做出 CPU、汇编器、虚拟机、编译器和操作系统，全部项目（00–12）的软件工具和材料免费，课程也在 Coursera 上开设 |
 
 ## 第二步：工具
 
@@ -22,6 +23,7 @@
 | [OSSU Computer Science](https://github.com/ossu/computer-science) | 想系统自学 CS 的人 | 对标大学本科的完整课程路径，全部用免费公开课，社区维护 |
 | [Teach Yourself CS](https://teachyourselfcs.com/) | 工作后补基础的工程师 | 九大主题各推荐一本书 + 一门课，是最精炼的“补基础书单” |
 | [OSTEP《操作系统导论》](https://pages.cs.wisc.edu/~remzi/OSTEP/) | 学操作系统的人 | 免费在线教材，讲虚拟化、并发、持久化，配有作业 |
+| [MIT 6.1810 操作系统工程](https://pdos.csail.mit.edu/6.1810/) | 读完 OSTEP 想动手的人 | MIT 操作系统课（原 6.S081），在教学用操作系统 xv6 上完成系统调用、页表、写时复制、文件系统等实验，实验指导和代码公开 |
 | [CMU 15-445 数据库系统](https://15445.courses.cs.cmu.edu/) | 学数据库的人 | 公开视频与项目：存储、索引、查询执行、并发控制、恢复 |
 | [Crafting Interpreters](https://craftinginterpreters.com/) | 想懂编程语言实现的人 | 免费在线书，从零实现两个完整的解释器 |
 | [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 所有人 | 免费书籍、课程和学习资料索引，用来找每门课的配套教材 |
@@ -36,9 +38,9 @@
 
 ## 建议学习顺序
 
-1. 零基础先学 CS50x；中文学习者同时打开 CS 自学指南作为地图。
+1. 零基础先学 CS50x；中文学习者同时打开 CS 自学指南作为地图。CS50 只允许使用课程自带的 AI 助教 CS50 Duck，照这个规矩来学（见 [AI 时代怎么学](../ai-era-learning.md)）。想先建立“计算机是怎么工作的”整体图景，可以并行做 Nand2Tetris。
 2. 用 1–2 周学完 The Missing Semester，把工具链用顺。
-3. 选一条主线：要完整路径走 OSSU，已经工作的走 Teach Yourself CS；操作系统、数据库、编程语言分别用 OSTEP、CMU 15-445、Crafting Interpreters 深入。
+3. 选一条主线：要完整路径走 OSSU，已经工作的走 Teach Yourself CS；操作系统、数据库、编程语言分别用 OSTEP（动手再做 MIT 6.1810 的实验）、CMU 15-445、Crafting Interpreters 深入。
 4. 每月读一篇 papers-we-love 中的经典论文；面试前用 CS-Notes 快速复习。
 
 ## 产出目标

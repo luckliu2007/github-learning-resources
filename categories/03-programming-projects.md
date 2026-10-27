@@ -1,6 +1,20 @@
 # 编程语言和项目实践
 
-## 推荐资源
+## 主流语言的官方入门
+
+先用官方教程学一门语言，比看二手教程更准确，也更新及时。GitHub Octoverse 2025 显示，TypeScript 和 Python 是 GitHub 上使用最多的两门语言。
+
+| 语言 | 资源 | 学习重点 |
+| --- | --- | --- |
+| Python | [Python 官方教程](https://docs.python.org/zh-cn/3/tutorial/) | 官方文档里的入门教程，有中文版：数据结构、函数、模块、类、标准库导览 |
+| TypeScript | [TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html) | 官方手册：类型系统、泛型、类型收窄；配合在线 Playground 边写边看 |
+| Go | [A Tour of Go](https://go.dev/tour/) | 官方交互式教程，浏览器里直接运行，一两天走完语法和并发基础 |
+| Rust | [The Rust Book](https://doc.rust-lang.org/book/) + [Rustlings](https://github.com/rust-lang/rustlings) | 官方书讲清所有权、借用、生命周期；Rustlings 是官方配套的小练习，修好编译错误就过关 |
+| Java | [dev.java 学习](https://dev.java/learn/) | Oracle 官方的 Java 学习站：从语言基础到现代特性（记录类、模式匹配、虚拟线程） |
+
+> 学语言阶段尽量少用 AI 补全，先把语法和报错读熟，见 [AI 时代怎么学](../ai-era-learning.md)。
+
+## 项目实践
 
 | 资源 | 适合人群 | 学习重点 |
 | --- | --- | --- |
@@ -16,7 +30,7 @@
 
 ## 建议学习顺序
 
-1. 用 freeCodeCamp 或一本免费书打基础。
+1. 用上面的官方教程或 freeCodeCamp 打一门语言的基础。
 2. 用 Exercism 把一门语言练熟，再从 project-based-learning 或 roadmap.sh 项目库选一个小项目。
 3. 把项目发布到自己的 GitHub，并写清楚运行方式。
 4. 进阶时从 build-your-own-x 选一个底层项目。

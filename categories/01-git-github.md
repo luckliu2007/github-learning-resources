@@ -12,6 +12,7 @@
 | [gitignore](https://github.com/github/gitignore) | 所有开发者 | 为不同语言和框架选择合理的 `.gitignore` |
 | [Oh My Git!（游戏化学习）](https://github.com/git-learning-game/oh-my-git) | 觉得 Git 抽象的人 | 用可视化小游戏理解分支和提交图 |
 | [Learn Git Branching](https://learngitbranching.js.org/?locale=zh_CN) | 想真正搞懂分支、rebase 的人 | 浏览器里的交互式 Git 关卡，实时画出提交树，有中文界面（[GitHub](https://github.com/pcottle/learnGitBranching)） |
+| [GitHub Skills：Getting Started with GitHub Copilot](https://github.com/skills/getting-started-with-github-copilot) | 会用 Git、想学 AI 协作的人 | GitHub 官方互动课程，在自己的仓库里一步步练习 Copilot；后续课程还有 [Copilot 编程智能体处理 issue](https://github.com/skills/expand-your-team-with-copilot)、[Copilot 代码评审](https://github.com/skills/copilot-code-review)、[在 Copilot 中接入 MCP](https://github.com/skills/integrate-mcp-with-copilot) |
 
 ## 建议学习顺序
 
@@ -19,9 +20,11 @@
 2. 用 Learn Git Branching 练熟分支、合并和 rebase，再用 first-contributions 做一次真实 PR。
 3. 给自己的学习仓库加 README、目录和 `.gitignore`。
 4. 学会 star、watch、fork、issue、pull request 的区别。
+5. 基本功扎实之后，用 GitHub Skills 的 Copilot 系列课程练习和 AI 协作：让智能体在分支上提交 PR，你来评审、提修改意见、决定是否合并。怎么用 AI 才不影响学习，见 [AI 时代怎么学](../ai-era-learning.md)。
 
 ## 产出目标
 
 - 建一个自己的学习日志仓库。
 - 至少提交 10 次有意义的 commit。
 - 向一个练习项目提交一次 pull request。
+- 评审一次 AI 提交的 pull request：至少提出一条修改意见，并说明理由。

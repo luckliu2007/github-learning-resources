@@ -11,11 +11,15 @@
 | [hello-algo](https://github.com/krahets/hello-algo) | 动画图解算法 | [算法与面试](04-algorithms-interviews.md) |
 | [CS 自学指南](https://csdiy.wiki/) | 名校 CS 课程地图 | [计算机科学基础](02-computer-science.md) |
 | [Datawhale：self-llm / happy-llm / llm-universe](https://github.com/datawhalechina) | 大模型原理与应用 | [AI、机器学习和数据科学](06-ai-ml-data.md) |
+| [OI Wiki](https://oi-wiki.org/) | 中文算法百科 | [算法与面试](04-algorithms-interviews.md) |
+| [现代 JavaScript 教程](https://zh.javascript.info/) | JavaScript 系统教程 | [Web、后端和工程能力](05-web-backend-engineering.md) |
+| [Hugging Face LLM Course](https://huggingface.co/learn/llm-course) | 开源大模型开发（有简体中文版） | [AI、机器学习和数据科学](06-ai-ml-data.md) |
 
 ## 中文独有资源
 
 | 资源 | 适合人群 | 学习重点 |
 | --- | --- | --- |
+| [Python-100-Days](https://github.com/jackfrued/Python-100-Days) | Python 零基础到进阶 | 按天编排的中文 Python 路线：语法、Web 开发、数据分析、机器学习，GitHub 上最受欢迎的中文编程教程之一 |
 | [JavaGuide](https://github.com/Snailclimb/JavaGuide) | Java 和后端方向 | Java 基础、集合、JVM、并发、数据库、面试 |
 | [advanced-java](https://github.com/doocs/advanced-java) | Java 进阶/面试 | 高并发、分布式、微服务、海量数据处理 |
 | [后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome) | 想成为架构师的人 | 后端技术全景图谱，查漏补缺用（2024 年后未更新，新技术请对照其他资源） |
@@ -26,10 +30,11 @@
 
 ## 建议学习顺序
 
-1. Java 后端方向：JavaGuide 打基础 → advanced-java 补高并发/分布式 → 对照架构师图谱查漏。
-2. 算法方向用 labuladong 建立题型框架，配 hello-algo 看动画理解。
-3. AI 方向从 Datawhale 系列挑一条课程线，不要一次打开太多资源。
-4. 找中文书用 free-programming-books-zh_CN，别到处搜盗版 PDF。
+1. Python 入门：Python-100-Days 按天推进，遇到细节对照 [Python 官方中文教程](https://docs.python.org/zh-cn/3/tutorial/)。
+2. Java 后端方向：JavaGuide 打基础 → advanced-java 补高并发/分布式 → 对照架构师图谱查漏。
+3. 算法方向用 labuladong 建立题型框架，配 hello-algo 看动画理解，想学深再查 OI Wiki。
+4. AI 方向从 Datawhale 系列挑一条课程线，不要一次打开太多资源。
+5. 找中文书用 free-programming-books-zh_CN，别到处搜盗版 PDF。
 
 ## 产出目标
 

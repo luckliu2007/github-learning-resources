@@ -8,6 +8,7 @@
 | --- | --- | --- |
 | [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) | 想系统入门数据工程的人 | DataTalksClub 的免费课程，可以跟着期班学，也可以随时自学：容器化、工作流编排、数据仓库、批处理、流处理，最后做一个端到端项目 |
 | [data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) | 想找数据工程学习资料的人 | 数据工程学习资源总表：入门路线、书籍、课程、社区、博客和练手项目 |
+| [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) | 想把模型部署上线的人 | DataTalksClub 的免费 9 周课程：实验追踪与模型管理、编排与 ML 流水线、模型部署、监控和工程最佳实践（2026 年不开期班，可完整自学） |
 
 ## 云计算（官方免费学习平台）
 
@@ -25,13 +26,14 @@
 | [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) | 想按天推进的自学者 | 每天一个主题、90 天覆盖 DevOps 核心知识，社区维护，有多语言版本 |
 | [devops-exercises](https://github.com/bregman-arie/devops-exercises) | 准备 DevOps 面试的人 | Linux、网络、Docker、Kubernetes、云、Terraform 等方向的大量练习题与问答 |
 | [Terraform 官方教程](https://developer.hashicorp.com/terraform/tutorials) | 学基础设施即代码的人 | HashiCorp 官方分步教程，按云厂商分别给出示例 |
+| [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way) | 用过 Kubernetes、想搞懂它怎么运转的人 | 不用任何安装脚本，手工一步步搭起一个 Kubernetes 集群：证书、etcd、控制平面、工作节点、网络；作者明确说明是为学习而设计，不用于生产 |
 
 ## 建议学习顺序
 
 1. 先选定一家云厂商，用它的官方平台学完入门路径（不要三家同时学）。
 2. 用 roadmap.sh 定位自己缺哪块，再按 90DaysOfDevOps 的节奏系统补齐。
-3. 想走数据方向，完整跟一遍 Data Engineering Zoomcamp，并做完结课项目。
-4. 用 Terraform 把自己的一个项目部署到云上，做到“删掉重来也能一键恢复”。
+3. 想走数据方向，完整跟一遍 Data Engineering Zoomcamp，并做完结课项目；要把模型部署上线，再学 MLOps Zoomcamp。
+4. 用 Terraform 把自己的一个项目部署到云上，做到“删掉重来也能一键恢复”；用过 Kubernetes 之后，做一遍 Kubernetes The Hard Way 理解它的内部组件。
 5. 面试前用 devops-exercises 查漏补缺。
 
 ## 产出目标

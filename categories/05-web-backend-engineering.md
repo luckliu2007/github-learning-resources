@@ -7,6 +7,8 @@
 | [developer-roadmap](https://github.com/nilbuild/developer-roadmap) | 不知道学什么顺序的人 | 前端、后端、DevOps、AI 等路线图 |
 | [Web Dev For Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | Web 新手 | HTML、CSS、JavaScript 基础项目 |
 | [MDN 学习 Web 开发](https://developer.mozilla.org/zh-CN/docs/Learn_web_development) | 所有 Web 学习者 | Mozilla 官方的 Web 开发教程，HTML/CSS/JS 讲得最准确，有中文版 |
+| [现代 JavaScript 教程（javascript.info）](https://zh.javascript.info/) | 想把 JavaScript 学扎实的人 | 从基础语法讲到原型、异步、模块和浏览器 API，每节配练习，有完整中文版（[英文版](https://javascript.info/)） |
+| [web.dev Learn](https://web.dev/learn) | 想补现代 Web 标准的人 | Google Chrome 团队的免费课程：HTML、CSS、JavaScript、无障碍、性能、表单、图片 |
 | [The Odin Project](https://www.theodinproject.com/) | 想走完整全栈路线的人 | 免费全栈课程：基础课之后选 JavaScript（Node）或 Ruby on Rails 方向，每节以从零做项目收尾，有 Discord 社区互评 |
 | [Full Stack Open（赫尔辛基大学）](https://fullstackopen.com/en/) | 已会前端、想补后端的人 | React、Node/Express、MongoDB、GraphQL、TypeScript 等 13 个部分，免费并提供结课证书 |
 | [awesome-react](https://github.com/enaqx/awesome-react) | React 学习者 | React 生态资源和工具 |
@@ -24,7 +26,7 @@
 ## 建议学习顺序
 
 1. 用 developer-roadmap 确定方向（前端 / 后端 / DevOps）。
-2. Web 新手从 MDN 或 Web Dev For Beginners 入门；想走完整全栈路线，选 The Odin Project 作主线，已会前端再用 Full Stack Open 补后端。
+2. Web 新手从 MDN 或 Web Dev For Beginners 入门，JavaScript 用 javascript.info 学扎实；想走完整全栈路线，选 The Odin Project 作主线，已会前端再用 Full Stack Open 补后端。
 3. 做项目时从 public-apis 找真实数据源。
 4. 后端方向按“系统设计 → 数据库（SQL 实操）→ 缓存/消息队列 → 容器化部署 → 可观测性”推进：
    - 设计思路看 system-design-primer 与 awesome-scalability；

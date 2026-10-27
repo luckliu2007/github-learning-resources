@@ -1,6 +1,6 @@
 # AI、机器学习和数据科学
 
-从机器学习基础到大模型应用、智能体（Agent）和 MCP 工具生态的完整学习路线（2026-10 更新：新增一站式 AI 工程课程；2026-09 新增推理模型、MCP、Agent Skills 相关资源。入选项目均已核实仍在活跃维护）。按阶段学，每个阶段选一两个资源学透，不要一次打开太多。
+从机器学习基础到大模型应用、智能体（Agent）和 MCP 工具生态的完整学习路线（2026-10 更新：新增斯坦福 CS336、Hugging Face LLM Course、LLM Zoomcamp 和一站式 AI 工程课程；2026-09 新增推理模型、MCP、Agent Skills 相关资源。入选项目均已核实仍在活跃维护）。按阶段学，每个阶段选一两个资源学透，不要一次打开太多。
 
 > 本页偏**模型 / 工程师路线**。如果你的目标是**把 AI 用进产品和工作流**，或者是**管理者要制定 AI 战略**，请看独立仓库 [ai-ml-data-roadmap](https://github.com/luckliu2007/ai-ml-data-roadmap)：含能力模型、分周学习计划、评估与战略模板。
 
@@ -30,6 +30,7 @@
 | [fastbook](https://github.com/fastai/fastbook) | 想快速上手深度学习的人 | fast.ai 实战式深度学习教材，先跑通再深究 |
 | [nanochat](https://github.com/karpathy/nanochat) | 学完 nn-zero-to-hero 想看完整流程的人 | Karpathy 出品，约 100 美元算力从分词、预训练、微调到聊天界面完整训练一个小型 ChatGPT |
 | [reasoning-from-scratch](https://github.com/rasbt/reasoning-from-scratch) | 想搞懂推理模型的人 | LLMs-from-scratch 续作，从零实现推理（reasoning）能力：推理时扩展、强化学习训练 |
+| [Stanford CS336：Language Modeling from Scratch](https://cs336.stanford.edu/) | 有深度学习基础、想彻底搞懂大模型训练的人 | 斯坦福 2026 春季课程（Percy Liang、Tatsunori Hashimoto），讲课视频公开：五个大作业依次手写分词器和 Transformer、FlashAttention2 与分布式训练、拟合 scaling law、从 Common Crawl 清洗预训练数据、用 SFT 和强化学习训练数学推理；编码量远超一般 AI 课程 |
 | [tiny-llm](https://github.com/skyzh/tiny-llm) | 想搞懂大模型推理服务的系统工程师 | mini-lsm 作者 skyzh 出品，在 Apple Silicon 上用 MLX 从矩阵运算手写 Qwen3 推理，再加 KV Cache、量化、批处理，搭一个迷你 vLLM（需 Mac） |
 
 ## 第三阶段：大模型应用开发
@@ -37,6 +38,8 @@
 | 资源 | 适合人群 | 学习重点 |
 | --- | --- | --- |
 | [Generative AI For Beginners](https://github.com/microsoft/generative-ai-for-beginners) | 想学生成式 AI 的人 | 大模型应用、提示工程、RAG、微调 |
+| [Hugging Face LLM Course](https://huggingface.co/learn/llm-course) | 想用开源模型做开发的人 | Hugging Face 官方免费课程：Transformers、Datasets、Tokenizers 的用法，后几章讲微调、构建高质量数据集和推理模型；有简体中文版（[GitHub](https://github.com/huggingface/course)） |
+| [LLM Zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp) | 想做出一个完整 LLM 应用的人 | DataTalksClub 的免费 10 周课程：向量检索、RAG、智能体与函数调用、评估、监控，最后做一个项目，可跟期班也可自学 |
 | [llm-course](https://github.com/mlabonne/llm-course) | 想走 LLM 工程方向的人 | LLM 科学家和工程师两条路线图，附大量 notebook |
 | [RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) | 做知识库问答的人 | 数十种进阶 RAG 技术的可运行 notebook，从分块策略到重排序和评估 |
 | [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) | 所有大模型使用者 | 系统的提示工程方法、技巧和论文索引 |
@@ -63,7 +66,7 @@
 | [MCP 2026-07-28 规范](https://modelcontextprotocol.io/specification/2026-07-28/changelog) | 写 MCP 服务器的人 | 协议推出以来最大的修订：无状态核心、发现机制、Tasks 扩展、MCP Apps，旧的 HTTP+SSE 传输已弃用；MCP 现由 Linux 基金会旗下的 [AAIF](https://aaif.io/) 托管 |
 | [AGENTS.md](https://agents.md/) | 用编程智能体的人 | 写给编程智能体看的项目说明文件（开放格式），每个仓库放一份 |
 
-**2026 年的智能体工程实践**（Anthropic Engineering 一手文章）：[工具设计](https://www.anthropic.com/engineering/writing-tools-for-agents) · [长任务运行框架](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents) · [智能体评估](https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents) · [多智能体系统](https://www.anthropic.com/engineering/multi-agent-research-system)。安全方面看 [OWASP 智能体应用十大风险（2026）](https://genai.owasp.org/resource/owasp-top-10-for-agentic-applications-for-2026/)。汇总解读见 [2026 AI 最佳实践](https://github.com/luckliu2007/ai-ml-data-roadmap/blob/main/best-practices-2026.md)。
+**2026 年的智能体工程实践**（Anthropic Engineering 一手文章）：[工具设计](https://www.anthropic.com/engineering/writing-tools-for-agents) · [代码执行与 MCP](https://www.anthropic.com/engineering/code-execution-with-mcp) · [长任务运行框架](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents) · [智能体评估](https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents) · [多智能体系统](https://www.anthropic.com/engineering/multi-agent-research-system) · [智能体隔离](https://www.anthropic.com/engineering/how-we-contain-claude)。哪些技术已是行业默认、哪些是反模式（例如“不要默认使用 MCP”），见 [AI 技术雷达](https://github.com/luckliu2007/ai-ml-data-roadmap/blob/main/tech-radar-2026.md)。安全方面看 [OWASP 智能体应用十大风险（2026）](https://genai.owasp.org/resource/owasp-top-10-for-agentic-applications-for-2026/)。汇总解读见 [2026 AI 最佳实践](https://github.com/luckliu2007/ai-ml-data-roadmap/blob/main/best-practices-2026.md)。
 
 ## 中文资源
 
@@ -81,8 +84,8 @@
 
 1. 先补 Python、线性代数、概率统计基础。
 2. 第一阶段用 ML For Beginners 或 Machine Learning Zoomcamp 建立机器学习基础。
-3. 想搞懂原理走第二阶段：nn-zero-to-hero → LLMs-from-scratch → reasoning-from-scratch，想看完整训练流程再跑一遍 nanochat；想快速做应用可以直接进第三阶段。
-4. 第三阶段掌握提示工程和 RAG 之后，再进第四阶段学智能体，最后用第五阶段把自己的工具接进智能体。
+3. 想搞懂原理走第二阶段：nn-zero-to-hero → LLMs-from-scratch → reasoning-from-scratch，想看完整训练流程再跑一遍 nanochat，基础够了再挑战 CS336；想快速做应用可以直接进第三阶段。从零实现类的课程，核心代码要自己写，不要让 AI 代写（见 [AI 时代怎么学](../ai-era-learning.md)）。
+4. 第三阶段掌握提示工程和 RAG 之后（想跟着一门课做完整项目，选 LLM Zoomcamp），再进第四阶段学智能体，最后用第五阶段把自己的工具接进智能体。
 5. 中文学习者可以用 Datawhale 系列（self-llm、happy-llm、llm-universe、hello-agents）配合任一阶段。
 
 ## 产出目标

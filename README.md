@@ -14,6 +14,7 @@
 ## 目录
 
 - [入选标准](#入选标准)
+- [AI 时代怎么学](#ai-时代怎么学)
 - [快速学习路线](#快速学习路线)
 - [分类目录](#分类目录)
 - [如果你想分类建多个库](#如果你想分类建多个库)
@@ -29,21 +30,27 @@
 - 中英文资源兼收，中文学习路径单独整理。
 - 避免堆数量，保留适合长期学习的核心项目。
 
+## AI 时代怎么学
+
+AI 编程助手已经是日常工具，但研究显示：让 AI 直接写代码，任务完成得差不多快，学到的却明显更少，调试能力差距最大。开始之前先读 **[AI 时代怎么学（2026）](ai-era-learning.md)**：研究证据、七条学习规则、各分类怎么配合 AI 学，以及一周节奏示例。
+
 ## 快速学习路线
 
 ### 1. 新手起步
 
-1. [GitHub Skills: Introduction to GitHub](https://github.com/skills/introduction-to-github)
-2. [first-contributions](https://github.com/firstcontributions/first-contributions)
-3. [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
-4. [developer-roadmap](https://github.com/nilbuild/developer-roadmap)
+1. [AI 时代怎么学](ai-era-learning.md)
+2. [GitHub Skills: Introduction to GitHub](https://github.com/skills/introduction-to-github)
+3. [first-contributions](https://github.com/firstcontributions/first-contributions)
+4. [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+5. [developer-roadmap](https://github.com/nilbuild/developer-roadmap)
 
 ### 2. 计算机基础
 
-1. [OSSU Computer Science](https://github.com/ossu/computer-science)
-2. [CS-Notes](https://github.com/CyC2018/CS-Notes)
-3. [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)
-4. [papers-we-love](https://github.com/papers-we-love/papers-we-love)
+1. [CS50x（哈佛）](https://cs50.harvard.edu/x/)
+2. [OSSU Computer Science](https://github.com/ossu/computer-science)
+3. [CS-Notes](https://github.com/CyC2018/CS-Notes)
+4. [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)
+5. [papers-we-love](https://github.com/papers-we-love/papers-we-love)
 
 ### 3. 编程和项目实践
 
@@ -65,6 +72,7 @@
 2. [ML For Beginners](https://github.com/microsoft/ML-For-Beginners)
 3. [Generative AI For Beginners](https://github.com/microsoft/generative-ai-for-beginners)
 4. [AI Agents For Beginners](https://github.com/microsoft/ai-agents-for-beginners)
+5. [Stanford CS336：Language Modeling from Scratch](https://cs336.stanford.edu/)（进阶）
 
 ## 分类目录
 
@@ -95,6 +103,7 @@
 - 新增资源时先写“为什么值得学”，再放链接。
 - 不要把同类资源堆太多，宁可保留 5 个真正会用的。
 - 不复制课程正文、书籍内容或原项目 README，大段内容请回到原链接阅读。
+- 课程、标准和年度报告的新版本按 [ROADMAP.md](ROADMAP.md) 的“持续跟踪”表定期核对。
 - 一个资源只在它的“主分类”写完整条目，其它分类需要提及时用“另见”引用，避免重复维护。
 
 ## 贡献
