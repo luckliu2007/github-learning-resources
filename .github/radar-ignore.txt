@@ -5,3 +5,4 @@ AhmadHassan-BTed/Jantt
 heilcheng/awesome-agent-skills
 ai-job-search-dev/ai-job-search
 career-ops-hq/career-ops
+croffasia/itsaplan
