@@ -19,7 +19,7 @@
 2. **打开工具的“学习模式”。** 跟 CS50 课时用 [CS50 Duck](https://cs50.ai/)；用 Claude Code 写练习项目时切到 [Learning 输出风格](https://code.claude.com/docs/en/output-styles)，它会在关键决策处留下 `TODO(human)` 让你自己写；ChatGPT 的学习模式（[Study Mode](https://techcrunch.com/2025/07/29/openai-launches-study-mode-in-chatgpt)）和 Gemini 的引导式学习（[Guided Learning](https://techcrunch.com/2025/08/06/google-takes-on-chatgpts-study-mode-with-new-guided-learning-tool-in-gemini/)）也会用提问代替直接给答案。依据：Anthropic 研究者建议学习时考虑使用 AI 工具提供的学习模式。
 3. **调试自己来。** 先读报错、加日志、缩小范围，实在找不到再让 AI 帮忙，并让它解释原因。调试是 Anthropic 实验里差距最大的能力，也是以后审查 AI 代码最需要的能力。
 4. **AI 写的代码，你要能讲清楚每一行。** 提交前用自己的话写下“改了什么、为什么这么改”；讲不清就先别提交。否则代码越来越多，你对它的理解却跟不上（Thoughtworks 技术雷达称之为“认知债”，见 [AI 技术雷达](https://github.com/luckliu2007/ai-ml-data-roadmap/blob/main/tech-radar-2026.md)）。
-5. **用测试验证，不靠感觉。** 每个练习项目都写测试，让测试结果告诉你代码对不对。METR 的实验说明，人对 AI 带来的效率提升普遍估计过高。
+5. **用测试验证，不靠感觉。** 每个练习项目都写测试，让测试结果告诉你代码对不对。METR 的实验中，开发者对 AI 带来的提速估计明显过高（感觉快了 20%，实测慢了 19%）。
 6. **每周留出“无 AI”的练习时间。** 刷题、做 Exercism 练习、写小程序时关掉 AI 补全。很多课程考试和技术面试仍不允许使用 AI；即使允许，面试官也会追问你能不能解释自己的代码。
 7. **把 AI 当陪练，而不是代考。** 让它出题考你、扮演面试官、评审你写好的代码、把你的解释挑出漏洞。这些用法都是在练你的能力，而不是替代它。
 
