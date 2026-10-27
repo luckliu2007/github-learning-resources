@@ -18,11 +18,12 @@
 | [GAMES101 现代计算机图形学入门](https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html) | 中文学习者 | 闫令琪老师的中文图形学入门课：变换、光栅化、着色、几何、光线追踪，配作业，广受好评的中文入门课 |
 | [LearnOpenGL](https://learnopengl.com/) | 想动手写渲染器的人 | 从窗口、着色器到光照、阴影、PBR 的 OpenGL 教程，有[中文版](https://learnopengl-cn.github.io/) |
 | [Ray Tracing in One Weekend](https://raytracing.github.io/) | 想理解光线追踪的人 | 免费系列小书，用几百行代码从零写出一个光线追踪渲染器 |
+| [WebGPU Fundamentals](https://webgpufundamentals.org/) | 想学现代图形 API 的人 | 从零讲 WebGPU：渲染管线、着色器（WGSL）、纹理、计算着色器，浏览器里就能运行，有中文版（[GitHub](https://github.com/webgpu/webgpufundamentals)） |
 
 ## 建议学习顺序
 
 1. 想先做出东西：Godot 或 Unity 官方入门教程做一个小游戏 → CS50 Games 系统补基础 → 读 Game Programming Patterns 改进代码结构。
-2. 想学图形学：GAMES101 打理论基础 → 跟 LearnOpenGL 写一个能加载模型、有光照的渲染器 → 用 Ray Tracing in One Weekend 写一个光线追踪器。
+2. 想学图形学：GAMES101 打理论基础 → 跟 LearnOpenGL 写一个能加载模型、有光照的渲染器（想用浏览器里的现代图形 API，改学 WebGPU Fundamentals）→ 用 Ray Tracing in One Weekend 写一个光线追踪器。
 3. 数学不够时补线性代数（向量、矩阵、变换），GAMES101 前两讲有复习。
 
 ## 产出目标
