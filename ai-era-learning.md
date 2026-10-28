@@ -45,3 +45,5 @@
 | 周日 30 分钟 | 复盘：这周哪些东西离开 AI 也能做出来？ | 让 AI 根据你的笔记出 5 道题自测 |
 
 > 想把 AI 用进产品和工作流，或者要在团队里制定 AI 使用规则，见 [ai-ml-data-roadmap](https://github.com/luckliu2007/ai-ml-data-roadmap)。
+>
+> 学外语时怎么用 AI 陪练、哪些练法有研究支持，见 [英语学习的研究证据](https://github.com/luckliu2007/English-study/blob/main/docs/sla-evidence.md)。
