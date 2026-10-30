@@ -2,7 +2,7 @@
 
 ## 主流语言的官方入门
 
-先用官方教程学一门语言，比看二手教程更准确，也更新及时。GitHub Octoverse 2025 显示，TypeScript 和 Python 是 GitHub 上使用最多的两门语言。
+先用官方教程学一门语言，比看二手教程更准确，也更新及时。[GitHub Octoverse 2026](https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/) 显示，TypeScript、Python、JavaScript 仍是 GitHub 上贡献者最多的三门语言，Rust 的贡献者一年翻了一倍。
 
 | 语言 | 资源 | 学习重点 |
 | --- | --- | --- |

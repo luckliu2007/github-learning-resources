@@ -1,6 +1,6 @@
 # AI 时代怎么学（2026）
 
-**核实日期：2026-10-27。** AI 编程助手已经是开发者的日常工具。这一页回答一个问题：**用这份导航学习时，AI 该怎么用，才能学得更快，而不是学得更浅？** 结论来自研究和权威调查，每条都附来源。
+**核实日期：2026-10-30。** AI 编程助手已经是开发者的日常工具。这一页回答一个问题：**用这份导航学习时，AI 该怎么用，才能学得更快，而不是学得更浅？** 结论来自研究和权威调查，每条都附来源。
 
 ## 一、我们现在知道什么
 
@@ -10,7 +10,7 @@
 | 同一实验的使用方式分析 | 得分高（平均 65% 以上）的人：先让 AI 生成代码再追问原理、要代码时同时要解释、只问概念问题并自己解决报错。得分低（平均不到 40%）的人：全部交给 AI 写、开始自己写后来全部交给 AI、靠 AI 反复调试 | 同样用 AI，**问“为什么”的人学会了，只要答案的人没学会**（研究者提醒这是相关关系，不是因果） |
 | METR 随机对照实验（[2025-07](https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/)） | 16 名资深开源开发者、246 个真实任务：用 AI 时反而多花了 19% 的时间，但他们事后仍以为 AI 让自己快了 20%。METR 已在 [2026-02](https://metr.org/blog/2026-02-24-uplift-update/) 注明这一结果过时：新工具下很可能已经提速，但很多开发者不愿意参加“禁用 AI”的对照组，新数据因此不可靠 | **别相信“感觉变快了”**，用测试通过、项目完成这些可检验的结果衡量自己 |
 | [Stack Overflow 开发者调查 2026](https://survey.stackoverflow.co/2026/ai) | 83% 的受访者在工作中使用 AI 工具；48% 只在“能轻松验证输出时”才信任它，只有 6.6% 信任它做重要决策；17.1% 因为担心丧失技能而在工作或学习中避免使用 AI | 专业开发者的共识是：AI 很有用，但输出要验证。验证能力本身就要靠扎实的基础 |
-| [GitHub Octoverse 2025](https://github.blog/news-insights/octoverse/octoverse-a-new-developer-joins-github-every-second-as-ai-leads-typescript-to-1/) | GitHub 上已有 1.8 亿多开发者，一年新增 3600 多万；80% 的新开发者在第一周就用上了 Copilot；2025-08 起 TypeScript 按月度贡献者数超过 Python，成为 GitHub 上使用最多的语言 | 新手从第一天起就会接触 AI，所以更需要一套“怎么用”的规矩 |
+| [GitHub Octoverse 2026](https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/)（2026-10-28） | GitHub 上已有 2.25 亿多开发者。到 2026-09，超过 40% 的 pull request 由智能体起草第一版（3 月还是 17%）；合并的 PR 一年 13 亿个，是两年前的三倍多；AI 辅助代码审查的使用量一年增长 90% 以上。TypeScript、Python、JavaScript 仍是贡献者最多的三门语言。报告的结论是：工具再变，代码对不对、该不该合并，仍然要人来判断。（[2025 年版](https://github.blog/news-insights/octoverse/octoverse-a-new-developer-joins-github-every-second-as-ai-leads-typescript-to-1/)：80% 的新开发者第一周就用上了 Copilot） | 写代码越来越容易，读懂、审查、验证代码的能力越来越值钱。学习时要专门练审查：读别人的 PR，评审 AI 写的代码 |
 | [CS50 学术诚信政策](https://cs50.harvard.edu/x/honesty/) | 哈佛 CS50 允许使用课程自己的 AI 助教 CS50 Duck，不允许使用会直接给出答案或补全代码的其他 AI 工具 | 顶级入门课的选择：AI 可以当导师，不能当代写 |
 
 ## 二、七条学习规则
@@ -18,7 +18,7 @@
 1. **学新东西时先自己写，卡住了问“为什么”，不要只要答案。** 让 AI 解释概念、指出思路，而不是交出完整代码。依据：Anthropic 实验中得分高的三种用法。
 2. **打开工具的“学习模式”。** 跟 CS50 课时用 [CS50 Duck](https://cs50.ai/)；用 Claude Code 写练习项目时切到 [Learning 输出风格](https://code.claude.com/docs/en/output-styles)，它会在关键决策处留下 `TODO(human)` 让你自己写；ChatGPT 的学习模式（[Study Mode](https://techcrunch.com/2025/07/29/openai-launches-study-mode-in-chatgpt)）和 Gemini 的引导式学习（[Guided Learning](https://techcrunch.com/2025/08/06/google-takes-on-chatgpts-study-mode-with-new-guided-learning-tool-in-gemini/)）也会用提问代替直接给答案。依据：Anthropic 研究者建议学习时考虑使用 AI 工具提供的学习模式。
 3. **调试自己来。** 先读报错、加日志、缩小范围，实在找不到再让 AI 帮忙，并让它解释原因。调试是 Anthropic 实验里差距最大的能力，也是以后审查 AI 代码最需要的能力。
-4. **AI 写的代码，你要能讲清楚每一行。** 提交前用自己的话写下“改了什么、为什么这么改”；讲不清就先别提交。否则代码越来越多，你对它的理解却跟不上（Thoughtworks 技术雷达称之为“认知债”，见 [AI 技术雷达](https://github.com/luckliu2007/ai-ml-data-roadmap/blob/main/tech-radar-2026.md)）。
+4. **AI 写的代码，你要能讲清楚每一行。** 提交前用自己的话写下“改了什么、为什么这么改”；讲不清就先别提交。否则代码越来越多，你对它的理解却跟不上（Thoughtworks 技术雷达称之为“认知债”，见 [AI 技术雷达](https://github.com/luckliu2007/ai-ml-data-roadmap/blob/main/tech-radar-2026.md)）。Octoverse 2026 显示，超过四成的 PR 已由智能体起草，审查成了开发者把关的主要环节；怎么审查，可以对照 [Google 的代码审查指南](https://google.github.io/eng-practices/review/)。
 5. **用测试验证，不靠感觉。** 每个练习项目都写测试，让测试结果告诉你代码对不对。METR 的实验中，开发者对 AI 带来的提速估计明显过高（感觉快了 20%，实测慢了 19%）。
 6. **每周留出“无 AI”的练习时间。** 刷题、做 Exercism 练习、写小程序时关掉 AI 补全。很多课程考试和技术面试仍不允许使用 AI；即使允许，面试官也会追问你能不能解释自己的代码。
 7. **把 AI 当陪练，而不是代考。** 让它出题考你、扮演面试官、评审你写好的代码、把你的解释挑出漏洞。这些用法都是在练你的能力，而不是替代它。
