@@ -11,6 +11,11 @@
 - 中文资源页修正两条标题与内容不符的条目，新增 HelloGitHub、科技爱好者周刊、中国独立开发者项目列表。
 - 新增“网络安全”分类（OWASP、PortSwigger Web Security Academy、OverTheWire、picoCTF、CTF Wiki 等）。
 
+## 2026-10-30 更新（已完成）
+
+- [AI 时代怎么学](ai-era-learning.md) 改用 GitHub Octoverse 2026（2026-10-28）：超过 40% 的 PR 由智能体起草第一版，AI 辅助代码审查使用量一年增长 90% 以上；第 4 条规则补充“练审查”的依据。
+- Git 页新增 Google 代码审查指南；编程语言页的语言排名改用 Octoverse 2026。
+
 ## 2026-10-27 最新内容升级（已完成）
 
 - 新增 [AI 时代怎么学（2026）](ai-era-learning.md)：Anthropic 随机对照实验（AI 辅助对技能形成的影响）、METR 开发者效率实验、Stack Overflow 2026 调查、GitHub Octoverse 2025、CS50 的 AI 政策，归纳七条学习规则和各分类的 AI 用法。
@@ -33,7 +38,7 @@
 
 | 事项 | 当前状态（2026-10-27 核对） | 触发更新的条件 |
 | --- | --- | --- |
-| GitHub Octoverse | 2025 年版（2025-10-28 发布）为最新 | 新一年的报告发布（通常在 10 月底） |
+| GitHub Octoverse | 2026 年版（2026-10-28 发布）已收录（2026-10-30） | 新一年的报告发布（通常在 10 月底） |
 | Stack Overflow 开发者调查 | 2026 年版为最新 | 新一年的调查结果发布 |
 | OWASP Top 10 | 2025 年版为最新 | 发布新版本 |
 | 斯坦福 CS336 | 2026 春季版为最新 | 新学期课程上线 |
