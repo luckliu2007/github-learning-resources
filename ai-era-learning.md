@@ -1,6 +1,6 @@
 # AI 时代怎么学（2026）
 
-**核实日期：2026-10-30。** AI 编程助手已经是开发者的日常工具。这一页回答一个问题：**用这份导航学习时，AI 该怎么用，才能学得更快，而不是学得更浅？** 结论来自研究和权威调查，每条都附来源。
+**核实日期：2026-11-05。** AI 编程助手已经是开发者的日常工具。这一页回答一个问题：**用这份导航学习时，AI 该怎么用，才能学得更快，而不是学得更浅？** 结论来自研究和权威调查，每条都附来源。
 
 ## 一、我们现在知道什么
 
@@ -18,7 +18,7 @@
 1. **学新东西时先自己写，卡住了问“为什么”，不要只要答案。** 让 AI 解释概念、指出思路，而不是交出完整代码。依据：Anthropic 实验中得分高的三种用法。
 2. **打开工具的“学习模式”。** 跟 CS50 课时用 [CS50 Duck](https://cs50.ai/)；用 Claude Code 写练习项目时切到 [Learning 输出风格](https://code.claude.com/docs/en/output-styles)，它会在关键决策处留下 `TODO(human)` 让你自己写；ChatGPT 的学习模式（[Study Mode](https://techcrunch.com/2025/07/29/openai-launches-study-mode-in-chatgpt)）和 Gemini 的引导式学习（[Guided Learning](https://techcrunch.com/2025/08/06/google-takes-on-chatgpts-study-mode-with-new-guided-learning-tool-in-gemini/)）也会用提问代替直接给答案。依据：Anthropic 研究者建议学习时考虑使用 AI 工具提供的学习模式。
 3. **调试自己来。** 先读报错、加日志、缩小范围，实在找不到再让 AI 帮忙，并让它解释原因。调试是 Anthropic 实验里差距最大的能力，也是以后审查 AI 代码最需要的能力。
-4. **AI 写的代码，你要能讲清楚每一行。** 提交前用自己的话写下“改了什么、为什么这么改”；讲不清就先别提交。否则代码越来越多，你对它的理解却跟不上（Thoughtworks 技术雷达称之为“认知债”，见 [AI 技术雷达](https://github.com/luckliu2007/ai-ml-data-roadmap/blob/main/tech-radar-2026.md)）。Octoverse 2026 显示，超过四成的 PR 已由智能体起草，审查成了开发者把关的主要环节；怎么审查，可以对照 [Google 的代码审查指南](https://google.github.io/eng-practices/review/)。
+4. **AI 写的代码，你要能讲清楚每一行。** 提交前用自己的话写下“改了什么、为什么这么改”；讲不清就先别提交。否则代码越来越多，你对它的理解却跟不上（Thoughtworks 技术雷达称之为“认知债”；第 35 期新增的“[追问](https://www.thoughtworks.com/radar/techniques/grilling)”做法，即让编程智能体动手前先就计划向你提问，也被认为有助于缓解，见 [AI 技术雷达](https://github.com/luckliu2007/ai-ml-data-roadmap/blob/main/tech-radar-2026.md)）。Octoverse 2026 显示，超过四成的 PR 已由智能体起草，审查成了开发者把关的主要环节；怎么审查，可以对照 [Google 的代码审查指南](https://google.github.io/eng-practices/review/)。
 5. **用测试验证，不靠感觉。** 每个练习项目都写测试，让测试结果告诉你代码对不对。METR 的实验中，开发者对 AI 带来的提速估计明显过高（感觉快了 20%，实测慢了 19%）。
 6. **每周留出“无 AI”的练习时间。** 刷题、做 Exercism 练习、写小程序时关掉 AI 补全。很多课程考试和技术面试仍不允许使用 AI；即使允许，面试官也会追问你能不能解释自己的代码。
 7. **把 AI 当陪练，而不是代考。** 让它出题考你、扮演面试官、评审你写好的代码、把你的解释挑出漏洞。这些用法都是在练你的能力，而不是替代它。
