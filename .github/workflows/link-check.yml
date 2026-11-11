@@ -15,6 +15,9 @@ on:
     - cron: '0 2 * * 1'   # 每周一 02:00 UTC 定期体检
   workflow_dispatch:
 
+permissions:
+  contents: read
+
 jobs:
   link-check:
     runs-on: ubuntu-latest

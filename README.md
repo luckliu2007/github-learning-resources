@@ -17,8 +17,6 @@
 - [AI 时代怎么学](#ai-时代怎么学)
 - [快速学习路线](#快速学习路线)
 - [分类目录](#分类目录)
-- [如果你想分类建多个库](#如果你想分类建多个库)
-- [维护建议](#维护建议)
 - [贡献](#贡献)
 - [许可](#许可)
 
@@ -89,26 +87,13 @@ AI 编程助手已经是日常工具，但研究显示：让 AI 直接写代码�
 - [移动开发](categories/11-mobile.md)
 - [游戏开发与图形学](categories/12-game-graphics.md)
 
-## 如果你想分类建多个库
-
-见 [REPO_SPLIT_PLAN.md](REPO_SPLIT_PLAN.md)。里面给了推荐仓库名、简介和适合放的分类，之后可以按这个计划拆成多个 GitHub 仓库。
-
 ## 路线图
 
 下一步的补强方向和维护机制见 [ROADMAP.md](ROADMAP.md)。
 
-## 维护建议
-
-- 失效链接由 [`link-check` workflow](.github/workflows/link-check.yml) 每周自动体检，无需再手动逐条检查。
-- 新增资源时先写“为什么值得学”，再放链接。
-- 不要把同类资源堆太多，宁可保留 5 个真正会用的。
-- 不复制课程正文、书籍内容或原项目 README，大段内容请回到原链接阅读。
-- 课程、标准和年度报告的新版本按 [ROADMAP.md](ROADMAP.md) 的“持续跟踪”表定期核对。
-- 一个资源只在它的“主分类”写完整条目，其它分类需要提及时用“另见”引用，避免重复维护。
-
 ## 贡献
 
-欢迎推荐资源或修正链接。请先读 [CONTRIBUTING.md](CONTRIBUTING.md)，通过 [Issue 模板](.github/ISSUE_TEMPLATE/resource-suggestion.md) 提交推荐，或直接发 PR。每个新增资源都要写清“为什么值得学”。
+欢迎推荐资源、报告失效链接、指出描述有误。用 Issue 表单最快：[推荐资源](https://github.com/luckliu2007/github-learning-resources/issues/new?template=resource-suggestion.yml)、[报告失效链接](https://github.com/luckliu2007/github-learning-resources/issues/new?template=broken-link.yml)、[内容勘误](https://github.com/luckliu2007/github-learning-resources/issues/new?template=content-error.yml)；也可以直接发 PR。收录标准和条目格式见 [贡献指南](CONTRIBUTING.md)，参与前请读 [行为准则](CODE_OF_CONDUCT.md)。
 
 ## 许可
 
