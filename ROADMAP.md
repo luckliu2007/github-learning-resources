@@ -11,6 +11,12 @@
 - 中文资源页修正两条标题与内容不符的条目，新增 HelloGitHub、科技爱好者周刊、中国独立开发者项目列表。
 - 新增“网络安全”分类（OWASP、PortSwigger Web Security Academy、OverTheWire、picoCTF、CTF Wiki 等）。
 
+## 2026-11-11 对标 GitHub 最佳实践（已完成）
+
+- 补齐社区文件：行为准则（贡献者公约 3.0 中文版）、推荐资源 / 失效链接 / 内容勘误三个 Issue 表单（替换原来的 Markdown 模板），贡献指南改写为“参与方式、收录标准、条目格式、提交前检查、维护约定”五节。
+- README 去掉面向维护者的“分类建库”和“维护建议”两节（后者移入贡献指南）；删除已完成使命的 `PUBLISH.md` 和 `REPO_SPLIT_PLAN.md`（AI 方向已拆为 ai-ml-data-roadmap，其他方向暂不拆分）。
+- 新增 GitHub Pages 站点配置 `_config.yml`；Link Check 工作流显式声明只读权限；Dependabot 每月检查一次 Actions 新版本。
+
 ## 2026-10-30 更新（已完成）
 
 - [AI 时代怎么学](ai-era-learning.md) 改用 GitHub Octoverse 2026（2026-10-28）：超过 40% 的 PR 由智能体起草第一版，AI 辅助代码审查使用量一年增长 90% 以上；第 4 条规则补充“练审查”的依据。

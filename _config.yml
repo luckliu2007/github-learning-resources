@@ -1,0 +1,31 @@
+title: GitHub 学习资源导航
+description: 按学习目标分类的 GitHub 优质学习资源导航
+lang: zh-CN
+theme: minima
+
+# GitHub Pages 项目页地址：https://luckliu2007.github.io/github-learning-resources/
+# 在仓库 Settings → Pages 里选择“Deploy from a branch”、main 分支、/ (root) 即可启用；README.md 会作为首页。
+url: "https://luckliu2007.github.io"
+baseurl: "/github-learning-resources"
+
+# 顶部导航只放几个主要页面，否则 minima 会把每个页面都放进导航
+header_pages:
+  - ai-era-learning.md
+  - ROADMAP.md
+  - CONTRIBUTING.md
+
+# 把 Markdown 里的 .md 相对链接转换成站内链接（GitHub Pages 默认已启用，此处显式声明）
+plugins:
+  - jekyll-relative-links
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+relative_links:
+  enabled: true
+  collections: false
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+markdown: kramdown

@@ -1,0 +1,64 @@
+name: 📚 推荐资源
+description: 推荐一个值得收录的 GitHub 学习资源（课程、教程、项目、路线图）
+title: "[资源推荐] "
+labels: ["enhancement"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: 资源名称
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: 链接
+      placeholder: https://
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: 属于哪个分类
+      options:
+        - Git 和 GitHub
+        - 计算机科学基础
+        - 编程语言和项目实践
+        - 算法、数据结构和面试
+        - Web、后端和工程能力
+        - AI、机器学习和数据
+        - 中文优质资源
+        - 参考库和速查
+        - 网络安全
+        - 数据、云和 DevOps
+        - 移动开发
+        - 游戏和图形
+        - AI 时代怎么学
+    validations:
+      required: true
+  - type: dropdown
+    id: cost
+    attributes:
+      label: 是否免费
+      options:
+        - 完全免费
+        - 有免费部分
+        - 主要付费
+    validations:
+      required: true
+  - type: textarea
+    id: reason
+    attributes:
+      label: 推荐理由
+      description: 解决什么问题、适合什么水平、为什么比已收录的同类更值得收录。收录标准见 CONTRIBUTING.md。
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: 确认
+      options:
+        - label: 我搜过本仓库，没有重复收录
+          required: true
+        - label: 我自己打开过这个资源，内容不是空壳或纯营销
+          required: true
