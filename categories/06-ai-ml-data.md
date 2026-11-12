@@ -32,6 +32,7 @@
 | [reasoning-from-scratch](https://github.com/rasbt/reasoning-from-scratch) | 想搞懂推理模型的人 | LLMs-from-scratch 续作，从零实现推理（reasoning）能力：推理时扩展、强化学习训练 |
 | [Stanford CS336：Language Modeling from Scratch](https://cs336.stanford.edu/) | 有深度学习基础、想彻底搞懂大模型训练的人 | 斯坦福 2026 春季课程（Percy Liang、Tatsunori Hashimoto），讲课视频公开：五个大作业依次手写分词器和 Transformer、FlashAttention2 与分布式训练、拟合 scaling law、从 Common Crawl 清洗预训练数据、用 SFT 和强化学习训练数学推理；编码量远超一般 AI 课程 |
 | [tiny-llm](https://github.com/skyzh/tiny-llm) | 想搞懂大模型推理服务的系统工程师 | mini-lsm 作者 skyzh 出品，在 Apple Silicon 上用 MLX 从矩阵运算手写 Qwen3 推理，再加 KV Cache、量化、批处理，搭一个迷你 vLLM（需 Mac） |
+| [zero-to-sglang](https://github.com/datawhalechina/zero-to-sglang) | 想搞懂大模型推理引擎、给开源项目提 PR 的工程师 | Datawhale 与 SGLang 团队（RadixArk）合作的中英双语课程：先讲 KV Cache、prefill/decode、Roofline 等推理概念，再从零手写 mini-sglang（连续批处理、Paged KV Cache、RadixAttention、投机解码），最后读 SGLang 源码并走完提 PR 流程；部分章节需 GPU（[在线阅读](https://datawhalechina.github.io/zero-to-sglang/)） |
 
 ## 第三阶段：大模型应用开发
 
