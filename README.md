@@ -7,7 +7,7 @@
 
 一份按学习目标分类的高质量 GitHub 学习资源导航。
 
-本仓库只整理公开项目链接、学习顺序和使用建议，不复制原项目内容。适合放在个人 GitHub 主页、收藏夹仓库，或继续拆分成多个专题仓库。
+本仓库只整理公开项目链接、学习顺序和使用建议，不复制原项目内容。
 
 > **English**: A curated, opinionated navigator of high-quality learning resources on GitHub, organized by learning goal rather than by tech stack. Each category ships with a suggested learning order and concrete deliverables. Curation over collection — we keep the few resources worth returning to, not everything that exists.
 
